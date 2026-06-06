@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:04,000
+ClearDay AI turns messy student task notes into a clear day plan.
+
+2
+00:00:04,000 --> 00:00:10,000
+Start with a messy task dump: homework, presentation prep, laundry, workout, and hackathon study.
+
+3
+00:00:10,000 --> 00:00:17,000
+Use a built-in example or paste your own notes.
+
+4
+00:00:17,000 --> 00:00:25,000
+Choose the target date and planning mode.
+
+5
+00:00:25,000 --> 00:00:32,000
+Balanced mode creates a realistic plan for study, life tasks, and energy.
+
+6
+00:00:32,000 --> 00:00:40,000
+Generate a structured schedule with the OpenAI Responses API.
+
+7
+00:00:40,000 --> 00:00:49,000
+The plan board opens with a summary, priorities, durations, and timeline blocks.
+
+8
+00:00:49,000 --> 00:00:57,000
+Review the full timeline and understand why each task is scheduled.
+
+9
+00:00:57,000 --> 00:01:05,000
+Switch to Focus view for the top tasks and practical review tips.
