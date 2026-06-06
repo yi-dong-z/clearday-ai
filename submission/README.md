@@ -15,6 +15,10 @@ plan with priorities, time blocks, and practical tips.
 **Target users:** Students, first-time builders, and beginners preparing for
 classes, applications, interviews, or hackathon work.
 
+**Live demo:** https://clear-day-ai-hackathon.vercel.app
+
+**Source code:** https://github.com/yi-dong-z/clearday-ai
+
 ## Submission Description
 
 ClearDay AI helps students turn scattered thoughts into an actionable day plan.

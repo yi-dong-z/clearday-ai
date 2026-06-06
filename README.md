@@ -2,6 +2,11 @@
 
 ClearDay AI is a HackOnVibe micro-product for students and new builders. It turns messy task notes into a focused day plan with priorities, time blocks, and practical tips.
 
+## Links
+
+- Live demo: https://clear-day-ai-hackathon.vercel.app
+- Source code: https://github.com/yi-dong-z/clearday-ai
+
 ## Features
 
 - Messy task input with examples
