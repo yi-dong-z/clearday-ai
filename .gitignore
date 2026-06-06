@@ -1,0 +1,12 @@
+.DS_Store
+.next
+.vercel
+node_modules
+out
+dist
+.env
+.env*.local
+*.log
+*.tsbuildinfo
+submission/*.mp4
+submission/*.mov

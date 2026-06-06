@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+:root {
+  --background: oklch(0.985 0.006 250);
+  --foreground: oklch(0.18 0.018 255);
+  --panel: oklch(1 0 0);
+  --panel-muted: oklch(0.965 0.008 250);
+  --border: oklch(0.87 0.012 250);
+  --muted: oklch(0.44 0.02 255);
+  --accent: oklch(0.52 0.17 230);
+  --accent-dark: oklch(0.39 0.15 235);
+  --accent-soft: oklch(0.94 0.035 230);
+  --danger: oklch(0.52 0.18 25);
+  --success: oklch(0.47 0.13 155);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+::selection {
+  background: var(--accent-soft);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
